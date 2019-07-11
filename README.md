@@ -1,2 +1,2 @@
-# Programming
+# Data Projects
 Data analysis
